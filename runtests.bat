@@ -1,1 +1,1 @@
-py -m unittest discover -s fandom/tests -p "*_test.py"
+python -m unittest discover -s fandom/tests -p "*_test.py"

@@ -49,3 +49,6 @@ Pipfile.lock
 
 # Development
 tmp/
+
+# venv
+.venv/
